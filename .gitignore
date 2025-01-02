@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+cache/
+*.db
+*.backup
+llm-data-analyzer/
+*.csv

@@ -1,0 +1,12 @@
+[theme]
+# Ana renkler
+primaryColor = "#6366F1"
+backgroundColor = "#0F1117"
+secondaryBackgroundColor = "#1E1E2E"
+textColor = "#E2E8F0"
+
+# Font ayarları
+font = "sans serif"
+
+# Diğer ayarlar
+base = "dark" 
